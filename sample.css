@@ -1,0 +1,149 @@
+
+body{
+  font-family:sans-serif;
+  margin: 0px;
+  margin-right: 0px;
+  }
+  #p1{
+  background-image: url(https://img5.goodfon.com/wallpaper/nbig/2/86/fastfud-burger-gamburger-pepsi-kola-kartofel-fri.jpg);
+  background-size: 100% 110%;
+  background-repeat: no-repeat;
+
+}
+
+#s1{
+   padding: 50px 20px 0px 200px;
+ position: fixed;
+  display: inline-block;
+
+}
+a{
+
+  margin-right: 30px;
+  color: LightGray;
+}
+
+#s2{
+  text-align: center;
+ margin: 0px;
+}
+#a1{
+  margin-left: 300px;
+}
+#s3{
+  padding-top: 150px;
+  padding-bottom: 300px;
+  font-size: 15px;
+  color: #fff;
+  text-align: center;
+}
+#d1{
+  font-size: 70px;
+  font-weight: bolder;
+}
+#s5{
+  color: Gray;
+  float: left;
+  padding: 50px 100px;
+  width: 650px;
+  line-height: 1.5;
+}
+#d2{
+  font-size: 30px;
+  color: #000;
+}
+#s4{
+  padding: 50px 40px 50px 60px;
+  color: Gray;
+  line-height: 1.5;
+}
+center > img{
+  padding: 60px 0px 40px 0px;
+}
+#s6{
+  margin-left: 150px;
+    margin-right: 70px;
+  color: #787878;
+  padding-bottom: 100px;
+}
+
+.c3{
+  margin-right: 80px;
+  display: inline-block;
+  width: 250px;
+
+}
+div.c2{
+  color: #3c3c3c;
+  font-weight: bold;
+  line-height: 1.5;
+}
+.z{
+
+  padding: 30px 70px 100px 150px;
+  color: #787878;
+}
+#s7{
+   background-image: url(https://wallpapercave.com/wp/wp3265898.jpg);
+   width: 89%;
+    color: #f0f0f0;
+    padding-left: 140px;
+    padding-bottom : 170px;
+
+}
+#s9{
+  padding: 90px 89px;
+  padding-right: 300px;
+}
+
+.c7{
+  color: #fff;
+  font-weight: bold;
+  line-height: 1.5;
+}
+.q{
+  margin-left: 80px;
+}
+#s8{
+  padding: 120px 20px 40px 20px;
+  color: #b4b4b4;
+  line-height: 1.5;
+}
+#d8{
+  font-size: 43px;
+  color: #000;
+  font-weight: bolder;
+}
+.c10{
+  font-size: 12px;
+  letter-spacing: 1px;
+}
+button.c10{
+  font-size: 15px;
+  background-color: #3c3c3c;
+  color: #fff;
+  padding: 12px 1px 12px 30px;
+  border: 1px solid #3c3c3c;
+  border-radius: 20px;
+}
+p.c10{
+  font-size: 15px;
+  padding: 60px 20px 30px 20px;
+}
+footer{
+  background-color: #000;
+  color: #f0f0f0;
+  font-size: 12px;
+  word-spacing: 2px;
+  margin-right: 0px;
+}
+center.c11{
+  padding: 180px 20px 80px 20px;
+}
+#d9{
+  color: #787878;
+  font-size: 14px;
+}
+a.c11{
+  color: #787878;
+}
